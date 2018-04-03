@@ -4,14 +4,21 @@ export default class History extends Component {
   render() {
     return (
       <div>
-        <h1 className='title'>History of WestSide University:</h1>
-        <p>Nullam cursus sem sit amet quam sollicitudin blandit. Phasellus quis odio nec magna ultricies lacinia ut quis nisi. Fusce ultricies leo at quam vehicula, sit amet tincidunt nisl scelerisque. Mauris vitae hendrerit quam. Maecenas sed mi a turpis sollicitudin bibendum. Pellentesque id felis in leo cursus pharetra ac non purus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec sapien tortor, cursus at sem ac, posuere condimentum mauris. Mauris auctor mi massa, non ullamcorper orci dapibus et. Phasellus ut pharetra nisl. Phasellus eu rhoncus lorem. In quis metus venenatis, eleifend dui a, iaculis arcu.
+        <h1 className='title'>History of Whiterun University:</h1>
+        <p>The mountain on which the city was built was discovered by members of the Five Hundred Companions of Ysgramor, who discovered the Skyforge, an abandoned forge with the ability to smelt superior Skyforge Steel. The local elves feared the Skyforge as a relic of the gods. Following Ysgamor's death, Harbinger Jeek of the River built the mead hall of Jorrvaskr beside the Skyforge, founding the settlement. This group became the Companions, a famous band of mercenaries.
         <br/>
         <br/>
-        Curabitur egestas libero vel tortor tincidunt finibus. Proin sollicitudin magna nulla, ac aliquet tellus tincidunt eu. Pellentesque elit ex, accumsan id lacus euismod, laoreet ornare est. Mauris sagittis justo ut pharetra lacinia. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Mauris quam justo, mattis ut ornare eget, porttitor cursus nisl. Proin efficitur libero massa, vitae egestas nibh pellentesque eu. Ut sodales velit ipsum. In dapibus, nisl nec tristique pharetra, ante ligula iaculis dolor, nec aliquet odio est ultrices tellus. Nulla efficitur venenatis urna finibus ullamcorper. Aenean ut dictum tellus. Nullam turpis ex, dapibus vel hendrerit nec, dignissim id arcu.
+        The palace of Dragonsreach was built by Olaf One-Eye to house the captured dragon Numinex.
         <br/>
         <br/>
-        Morbi viverra quam dui. Quisque accumsan sed felis at gravida. Duis sed nibh dui. Etiam eu aliquam ligula, ac iaculis lorem. Vivamus non enim semper, vehicula quam hendrerit, dignissim diam. Integer eleifend nisl non magna vestibulum feugiat. Sed pellentesque, nisl ut fringilla dapibus, tortor augue porttitor nulla, rhoncus convallis erat enim gravida nulla. Aliquam ac euismod sem. Nulla non ultrices sapien. Vivamus sagittis eget leo vitae sagittis. Maecenas quis leo lacus. Ut sed aliquet orci.</p>
+        The area used to be referred to as the "Imperial City of Skyrim", before it underwent several acts of chaos, including a dynastic feud, attacks by Hörme bandits and frost trolls, and a series of annihilating winters of alternating floods, droughts, and fires.
+        <br/>
+        <br/>
+        The young Barenziah escaped to here for a week with a young lover during her return to Mournhold.[3] During the late Third Era, a self-proclaimed priestess of Lorkhan, Jsashe the Witch-Queen, controlled the county and the local witches' coven.
+        <br/>
+        <br/>
+        In 4E 201, the city was ruled by Jarl Balgruuf the Greater and played a major role in the Dovahkiin's efforts to defeat Alduin. Whiterun was also the site of a major battle in Skyrim's Civil War, in which Stormcloak forces attacked the city, which was defended by the city guard reinforced by Imperial soldiers. Vignar Gray-Mane was backed by the Stormcloaks as a replacement jarl, while the Imperials haltingly supported Balgruuf. The Gildergreen died that same year, but it was restored by Danica Pure-Spring, a priestess of Kynareth.
+        </p>
       </div>
     )
   }

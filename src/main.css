@@ -41,7 +41,7 @@ nav {
   display: flex;
   justify-content: space-between;
   border-bottom: solid 1px #222;
-  background: rgb(62, 70, 77);
+  background: #bba463;
   color: white;
   height: 35px;
 }
@@ -80,4 +80,31 @@ a {
 .sub_box {
   width: 60%;
   margin: 0 auto;
+}
+
+.university-name {
+  display: flex;
+}
+
+.crest {
+  margin-left: 10px;
+  height: 40px;
+}
+
+.back_button {
+  margin: auto;
+  height: 40px;
+  width: 120px;
+  background:rgba(189, 189, 189, 0.664);
+  border: 1px solid #38311e;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  -webkit-transition: ease-in-out 1s;
+  transition: ease-in-out 1s;
+}
+
+.back_button:hover {
+  background: rgb(175, 175, 175);
+  cursor: pointer
 }
